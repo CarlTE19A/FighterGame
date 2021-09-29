@@ -1,0 +1,16 @@
+C:\Programming\FighterGame\FighterSim\bin\Debug\net5.0\FighterSim.exe
+C:\Programming\FighterGame\FighterSim\bin\Debug\net5.0\FighterSim.deps.json
+C:\Programming\FighterGame\FighterSim\bin\Debug\net5.0\FighterSim.runtimeconfig.json
+C:\Programming\FighterGame\FighterSim\bin\Debug\net5.0\FighterSim.runtimeconfig.dev.json
+C:\Programming\FighterGame\FighterSim\bin\Debug\net5.0\FighterSim.dll
+C:\Programming\FighterGame\FighterSim\bin\Debug\net5.0\ref\FighterSim.dll
+C:\Programming\FighterGame\FighterSim\bin\Debug\net5.0\FighterSim.pdb
+C:\Programming\FighterGame\FighterSim\obj\Debug\net5.0\FighterSim.csproj.AssemblyReference.cache
+C:\Programming\FighterGame\FighterSim\obj\Debug\net5.0\FighterSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\FighterGame\FighterSim\obj\Debug\net5.0\FighterSim.AssemblyInfoInputs.cache
+C:\Programming\FighterGame\FighterSim\obj\Debug\net5.0\FighterSim.AssemblyInfo.cs
+C:\Programming\FighterGame\FighterSim\obj\Debug\net5.0\FighterSim.csproj.CoreCompileInputs.cache
+C:\Programming\FighterGame\FighterSim\obj\Debug\net5.0\FighterSim.dll
+C:\Programming\FighterGame\FighterSim\obj\Debug\net5.0\ref\FighterSim.dll
+C:\Programming\FighterGame\FighterSim\obj\Debug\net5.0\FighterSim.pdb
+C:\Programming\FighterGame\FighterSim\obj\Debug\net5.0\FighterSim.genruntimeconfig.cache
